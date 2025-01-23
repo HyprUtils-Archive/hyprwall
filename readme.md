@@ -1,12 +1,18 @@
 <div align='center'>
 
-<h2>Hyprwall <img src='https://raw.githubusercontent.com/hyprutils/.github/refs/heads/main/hyprutils_transparent.png'width='18' height='18'></h2>
+<h2>Hyprwall <img src='https://raw.githubusercontent.com/hyprutils-archive/.github/refs/heads/main/hyprutils_transparent.png'width='18' height='18'></h2>
 
 An unofficial GUI for setting wallpapers with multiple backends, built with GTK4 and Rust. 🚀🦀<br>
 
 <img src='hyprwall.png' width='200' height='200'>
 
 </div>
+
+> [!CAUTION]
+> This is a backup repository for Hyprwall. It may be not fully up-to-date with the original repository, which is gone now but was located at [HyprUtils/hyprwall]<br>
+> It is not recommended to run this code **at all** :)
+
+[HyprUtils/hyprwall]: https://github.com/HyprUtils/hyprwall
 
 ## Differences between other GUI wallpaper pickers:
 - **Rust** - Built with Rust, so it's blazingly fast and memory-safe.
